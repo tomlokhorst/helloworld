@@ -1,5 +1,5 @@
 helloworld
 ==========
 
-An experimation project.
+An experimentation project.
 
